@@ -46,7 +46,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 >
 > group_ids = your telegram group ID (leave it blank if you don't want to add one). To get your group id, go to @MissRose_bot and type /id
 >
-> telegram_token = go to @BotFather and send /newbot to get one
+ telegram_token = go to @BotFather and send /newbot to get one
 >
 > user_ids = Your user id (go to @MissRose_bot and type /id to get your id) - If you want to authorize multiple users, add a comma between each ID (ex: 150654065,5897065)
 
